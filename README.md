@@ -4,7 +4,7 @@
 
 I work across product strategy, ecosystem development, and go-to-market execution, connecting technical teams with partners and users. Based in Lisbon, Portugal.
 
-[LinkedIn](https://www.linkedin.com/in/jasonma7/)
+[LinkedIn](https://www.linkedin.com/in/jason-c-ma/)
 
 ## Experience
 
@@ -31,4 +31,4 @@ DeFi market structure, cross-chain infrastructure, and AI-assisted research tool
 
 Honors Business Administration, Ivey Business School, and Bachelor of Engineering in Green Process Engineering, Western University.
 
-For professional background and conversations about partnerships, ecosystem strategy, or product and GTM leadership, connect with me on [LinkedIn](https://www.linkedin.com/in/jasonma7/).
+For professional background and conversations about partnerships, ecosystem strategy, or product and GTM leadership, connect with me on [LinkedIn](https://www.linkedin.com/in/jason-c-ma/).
