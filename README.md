@@ -1,8 +1,8 @@
 # Jason Ma
 
-**Crypto founder and commercial operator focused on DeFi, partnerships, and trading infrastructure.**
+**Former Head of DeFi at Axelar, previously GTM strategy and operations at Ripple. Angel investing with Athabasca Capital.**
 
-I work across product strategy, ecosystem development, and go-to-market execution, connecting technical teams with partners and users. Based in Lisbon, Portugal.
+Commercial operator across DeFi, partnerships, and trading infrastructure: ecosystem development, go-to-market execution, and liquidity programs. Based in Lisbon, Portugal.
 
 [LinkedIn](https://www.linkedin.com/in/jason-c-ma/)
 
@@ -10,11 +10,8 @@ I work across product strategy, ecosystem development, and go-to-market executio
 
 | Organization | Role | Focus |
 | --- | --- | --- |
-| Printr / Imprensa Labs | Co-Founder & CEO | Omnichain token-launch platform; product vision, fundraising, partnerships, and team leadership |
 | Axelar Network | Head of DeFi | Cross-chain ecosystem strategy, commercial and governance coordination, exchange relationships, and liquidity programs |
 | Ripple | Senior Manager, GTM Strategy & Operations | Crypto on/off-ramp expansion, forecasting, segmentation, and commercial planning |
-
-Earlier experience in strategy and operations at WeWork, CBRE, and Roland Berger.
 
 ## What I bring
 
@@ -25,7 +22,7 @@ Earlier experience in strategy and operations at WeWork, CBRE, and Roland Berger
 
 ## Technical interests
 
-DeFi market structure, cross-chain infrastructure, and AI-assisted research tools. I approach these projects from a founder and operator perspective, with an emphasis on clear assumptions, reproducible analysis, and practical limits.
+DeFi market structure, cross-chain infrastructure, and AI-assisted research tools, approached from an operator perspective with an emphasis on clear assumptions, reproducible analysis, and practical limits.
 
 ## Background
 
